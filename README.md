@@ -1,10 +1,10 @@
-![Banner](assets/Mohamed El AMINE.png)
+![Banner](assets/Mohamed El Amine.png)
 
 ---
 
 ## ✏️ About Me
 
-Hi! I’m **Mohamed El AMINE** — a student of **Software Engineering** and **embedded system**  
+Hi! I’m **Mohamed El Amine** — a student of **Software Engineering** and **embedded system**  
 Building **real‑time applications**, exploring **scalable architectures**, and tinkering with **ARM/RISC-V** projects.
 
 * 🚀 **Currently building**
