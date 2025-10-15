@@ -1,4 +1,4 @@
-![Banner](assets/Mohamed\ El\ Amine.png)
+![Banner](assets/Mohamed-El-Amine.png)
 
 ---
 
