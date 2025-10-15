@@ -1,16 +1,39 @@
-## Hi there 👋
+![Banner](assets/Mohamed El AMINE.png)
 
-<!--
-**Mohamed-El-Amine/Mohamed-El-Amine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✏️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I’m **Mohamed El AMINE** — a student of **Software Engineering** and **embedded system**  
+Building **real‑time applications**, exploring **scalable architectures**, and tinkering with **ARM/RISC-V** projects.
+
+* 🚀 **Currently building**
+  * **Morse** — secure, real‑time messaging with **E2EE**
+    
+* 💡 **Interests**: full‑stack engineering, system design, DevOps, and embedded hardware
+
+
+## 🏗️ Build Focus
+
+**Real-time systems**: WebSockets, event-driven patterns, backpressure, load balancing, horizontal scaling
+**Programming**:
+* **Java** – object-oriented design, collections, concurrency, backend services
+* **Python** – scripting, data processing, automation, quick prototyping
+* **Embedded/SoC** - ARM Cortex series, Rockchip RK3588, Allwinner SoCs, RISC-V platforms — focus on boot optimization, power efficiency, Linux bring-up, and peripheral integration
+
+
+---
+
+## ✅ Tech Stack
+
+<p>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img alt="Bash" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**Also using**: React • Node.js • Socket.IO • Prisma • Docker • Nginx • Redis • TailwindCSS • GitHub Actions • Linux (Arch/Fedora)
